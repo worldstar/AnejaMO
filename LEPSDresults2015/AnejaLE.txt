@@ -1,0 +1,10 @@
+bagchi	3	0.003
+bagchi	5	0.036
+bagchi	5	0.004
+bagchi	5	0.004
+bagchi	5	0.004
+bagchi	5	0.004
+bagchi	5	0.004
+bagchi	3	0.021
+bagchi	3	0.004
+bagchi	3	0.005
